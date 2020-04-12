@@ -17,7 +17,17 @@
 	persons (载人量: 2, 4, more)
 	lug_boot (贮存空间: small, med, big)
 	safety (安全性: low, med, high)
-	
+
+## Environment
+
+	numpy==1.17.1
+	pandas==0.25.0
+	tensorflow==1.1.0
+	Keras==2.0.4
+	torch==0.4.1
+	xgboost==0.90
+
+
 ## Training
 
 ### Files:
